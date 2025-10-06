@@ -1,0 +1,4 @@
+neuron_count,simulated_seconds,wall_seconds,wall_per_sim_second
+1,0.010000,6.440108,644.010797
+2,0.020000,6.028915,301.445758
+4,0.040000,11.911181,297.779524
